@@ -10,3 +10,11 @@ Feature in the Upcoming Application:
 ![image](https://user-images.githubusercontent.com/44647615/80350865-f7a8f480-888e-11ea-84bf-0e9cc1e73b51.png)
 
 
+2) Project OutPut:
+
+
+![image](https://user-images.githubusercontent.com/44647615/80351621-486d1d00-8890-11ea-987e-d6c06fb8dc76.png)
+
+
+
+
