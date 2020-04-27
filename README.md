@@ -6,6 +6,7 @@ Feature in the Upcoming Application:
 
 1) Project Structure :
 
-![image](https://user-images.githubusercontent.com/44647615/80350765-d7793580-888e-11ea-9741-8f1b2d584e95.png)
+
+![image](https://user-images.githubusercontent.com/44647615/80350865-f7a8f480-888e-11ea-84bf-0e9cc1e73b51.png)
 
 
